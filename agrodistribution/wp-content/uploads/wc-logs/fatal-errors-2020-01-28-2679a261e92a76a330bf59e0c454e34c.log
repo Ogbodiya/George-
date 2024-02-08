@@ -1,0 +1,4 @@
+2020-01-28T06:33:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-content\plugins\themeisle-companion\vendor\codeinwp\elementor-extra-widgets\widgets\woo\recent-products.php on line 8
+
+2020-01-28T06:33:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-content\plugins\themeisle-companion\vendor\codeinwp\themeisle-content-forms\class-themeisle-content-forms-newsletter.php on line 11
+

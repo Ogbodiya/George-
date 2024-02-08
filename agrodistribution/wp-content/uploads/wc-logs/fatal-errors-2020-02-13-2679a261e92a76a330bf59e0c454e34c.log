@@ -1,0 +1,12 @@
+2020-02-13T07:26:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\wp-db.php on line 1924
+
+2020-02-13T07:30:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-13T07:31:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-13T07:32:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-13T07:34:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-13T14:04:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-content\themes\hestia\vendor\codeinwp\themeisle-sdk\src\Common\Abstract_module.php on line 16
+

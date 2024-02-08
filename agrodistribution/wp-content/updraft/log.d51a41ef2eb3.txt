@@ -1,0 +1,792 @@
+0000.002 (0) Opened log file at time: Thu, 13 Feb 2020 15:39:52 +0000 on http://localhost:8080/agrodistribution
+0000.036 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 59M | 6M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.108 (0) Free space on disk containing Updraft's temporary directory: 224584 MB
+0000.195 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.276 (0) Semaphore (fd, wp_options) being initialised
+0000.395 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.660 (0) Set semaphore last lock (fd) time to 2020-02-13 15:39:53
+0000.683 (0) Semaphore lock (fd) complete
+0000.742 (0) Backup run: resumption=0, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (1s ago), job type=backup
+0000.815 (0) Scheduling a resumption (1) after 300 seconds (1581608693) in case this run gets aborted
+0000.893 (0) Checking if we have a zip executable available
+0000.947 (0) Creation of backups of directories: beginning
+0001.047 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0021.152 (0) Total entities for the zip file: 1309 directories, 7140 files (0 skipped as non-modified), 133.1 MB
+0021.182 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0021.898 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 100 files added (on-disk size: 228.6 KB)
+0022.053 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 200 files added (on-disk size: 228.6 KB)
+0022.178 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 300 files added (on-disk size: 228.6 KB)
+0022.368 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 400 files added (on-disk size: 228.6 KB)
+0022.509 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 500 files added (on-disk size: 228.6 KB)
+0022.603 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.2 MB, 7140 files batched, 501 (502) added so far); re-opening (prior size: 228.6 KB)
+0027.177 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 600 files added (on-disk size: 4283.2 KB)
+0027.311 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 700 files added (on-disk size: 4283.2 KB)
+0027.412 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 800 files added (on-disk size: 4283.2 KB)
+0027.664 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 900 files added (on-disk size: 4283.2 KB)
+0027.848 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1000 files added (on-disk size: 4283.2 KB)
+0027.884 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.8 MB, 7140 files batched, 501 (1003) added so far); re-opening (prior size: 4283.2 KB)
+0033.078 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1100 files added (on-disk size: 7155.2 KB)
+0033.192 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1200 files added (on-disk size: 7155.2 KB)
+0033.392 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1300 files added (on-disk size: 7155.2 KB)
+0033.517 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1400 files added (on-disk size: 7155.2 KB)
+0033.716 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1500 files added (on-disk size: 7155.2 KB)
+0033.763 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.2 MB, 7140 files batched, 501 (1504) added so far); re-opening (prior size: 7155.2 KB)
+0041.612 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1600 files added (on-disk size: 10345.9 KB)
+0041.767 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1700 files added (on-disk size: 10345.9 KB)
+0041.960 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1800 files added (on-disk size: 10345.9 KB)
+0042.068 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 1900 files added (on-disk size: 10345.9 KB)
+0042.172 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2000 files added (on-disk size: 10345.9 KB)
+0042.243 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.2 MB, 7140 files batched, 501 (2005) added so far); re-opening (prior size: 10345.9 KB)
+0047.542 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2100 files added (on-disk size: 11558.4 KB)
+0047.628 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2200 files added (on-disk size: 11558.4 KB)
+0047.779 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2300 files added (on-disk size: 11558.4 KB)
+0047.885 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2400 files added (on-disk size: 11558.4 KB)
+0048.016 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2500 files added (on-disk size: 11558.4 KB)
+0048.057 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8 MB, 7140 files batched, 501 (2506) added so far); re-opening (prior size: 11558.4 KB)
+0056.045 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2600 files added (on-disk size: 14123.1 KB)
+0056.204 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2700 files added (on-disk size: 14123.1 KB)
+0056.336 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2800 files added (on-disk size: 14123.1 KB)
+0056.523 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 2900 files added (on-disk size: 14123.1 KB)
+0056.735 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3000 files added (on-disk size: 14123.1 KB)
+0056.816 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16 MB, 7140 files batched, 501 (3007) added so far); re-opening (prior size: 14123.1 KB)
+0062.765 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3100 files added (on-disk size: 18976.3 KB)
+0062.859 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3200 files added (on-disk size: 18976.3 KB)
+0063.009 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3300 files added (on-disk size: 18976.3 KB)
+0063.133 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3400 files added (on-disk size: 18976.3 KB)
+0063.224 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3500 files added (on-disk size: 18976.3 KB)
+0063.287 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19 MB, 7140 files batched, 501 (3508) added so far); re-opening (prior size: 18976.3 KB)
+0081.816 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3600 files added (on-disk size: 24366.7 KB)
+0081.987 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3700 files added (on-disk size: 24366.7 KB)
+0082.102 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3800 files added (on-disk size: 24366.7 KB)
+0082.216 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 3900 files added (on-disk size: 24366.7 KB)
+0082.678 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4000 files added (on-disk size: 24366.7 KB)
+0082.748 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 7140 files batched, 501 (4009) added so far); re-opening (prior size: 24366.7 KB)
+0092.013 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4100 files added (on-disk size: 25074 KB)
+0092.128 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4200 files added (on-disk size: 25074 KB)
+0092.259 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4300 files added (on-disk size: 25074 KB)
+0092.392 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4400 files added (on-disk size: 25074 KB)
+0092.505 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4500 files added (on-disk size: 25074 KB)
+0092.612 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 7140 files batched, 501 (4510) added so far); re-opening (prior size: 25074 KB)
+0100.294 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4600 files added (on-disk size: 27570.3 KB)
+0100.410 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4700 files added (on-disk size: 27570.3 KB)
+0100.582 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4800 files added (on-disk size: 27570.3 KB)
+0100.777 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 4900 files added (on-disk size: 27570.3 KB)
+0100.908 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5000 files added (on-disk size: 27570.3 KB)
+0100.985 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.8 MB, 7140 files batched, 501 (5011) added so far); re-opening (prior size: 27570.3 KB)
+0121.467 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5100 files added (on-disk size: 31457.4 KB)
+0121.831 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5200 files added (on-disk size: 31457.4 KB)
+0122.055 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5300 files added (on-disk size: 31457.4 KB)
+0122.189 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5400 files added (on-disk size: 31457.4 KB)
+0122.375 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5500 files added (on-disk size: 31457.4 KB)
+0122.448 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.1 MB, 7140 files batched, 501 (5512) added so far); re-opening (prior size: 31457.4 KB)
+0134.685 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5600 files added (on-disk size: 35269.8 KB)
+0134.885 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5700 files added (on-disk size: 35269.8 KB)
+0135.001 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5800 files added (on-disk size: 35269.8 KB)
+0135.134 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 5900 files added (on-disk size: 35269.8 KB)
+0135.289 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6000 files added (on-disk size: 35269.8 KB)
+0135.391 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5 MB, 7140 files batched, 501 (6013) added so far); re-opening (prior size: 35269.8 KB)
+0143.931 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6100 files added (on-disk size: 36627.8 KB)
+0144.126 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6200 files added (on-disk size: 36627.8 KB)
+0144.359 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6300 files added (on-disk size: 36627.8 KB)
+0144.534 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6400 files added (on-disk size: 36627.8 KB)
+0144.809 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6500 files added (on-disk size: 36627.8 KB)
+0145.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 MB, 7140 files batched, 501 (6514) added so far); re-opening (prior size: 36627.8 KB)
+0150.261 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6600 files added (on-disk size: 37780.3 KB)
+0150.456 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6700 files added (on-disk size: 37780.3 KB)
+0150.639 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6800 files added (on-disk size: 37780.3 KB)
+0151.052 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 6900 files added (on-disk size: 37780.3 KB)
+0151.205 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 7000 files added (on-disk size: 37780.3 KB)
+0151.303 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.6 MB, 7140 files batched, 501 (7015) added so far); re-opening (prior size: 37780.3 KB)
+0163.734 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip.tmp: 7100 files added (on-disk size: 45388.3 KB)
+0169.020 (0) Created plugins zip (0) - 45720.1 KB in 167.9 s (272.3 KB/s) (sha1: 9a5a61b1e9f29530c809c678e4ba029eada49165, sha256: 17415738a4ba2a7e0b3397f6150b9f904e67f825c7d66881606f64f3284ff06c)
+0169.106 (0) Beginning creation of dump of themes (split every: 400 MB)
+0171.647 (0) Total entities for the zip file: 162 directories, 647 files (0 skipped as non-modified), 13.9 MB
+0171.709 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0172.059 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip.tmp: 100 files added (on-disk size: 25.4 KB)
+0172.188 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip.tmp: 200 files added (on-disk size: 25.4 KB)
+0172.387 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip.tmp: 300 files added (on-disk size: 25.4 KB)
+0172.623 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip.tmp: 400 files added (on-disk size: 25.4 KB)
+0172.782 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip.tmp: 500 files added (on-disk size: 25.4 KB)
+0172.912 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.2 MB, 647 files batched, 501 (502) added so far); re-opening (prior size: 25.4 KB)
+0178.648 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip.tmp: 600 files added (on-disk size: 5140.1 KB)
+0181.682 (0) Created themes zip (0) - 6967.9 KB in 12.5 s (556.6 KB/s) (sha1: d245f4b3ea22130ea00d05cb2cbfb4a8d09b8ee0, sha256: 753c6d0d2ae571146055b6e759bd57e1acc77d8462d38e80ed1f78842de0891b)
+0182.406 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0182.779 (0) Looking for candidates to backup in: C:\xampp\htdocs\agrodistribution/wp-content/uploads
+0183.320 (0) finding files: 2019: adding to list (1)
+0183.606 (0) finding files: 2020: adding to list (2)
+0183.896 (0) finding files: elementor: adding to list (3)
+0184.180 (0) finding files: GeoLite2-Country.mmdb: adding to list (4)
+0184.404 (0) finding files: wc-logs: adding to list (5)
+0184.552 (0) finding files: woocommerce_uploads: adding to list (6)
+0184.664 (0) finding files: wp_livechat_error_log.txt: adding to list (7)
+0184.967 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0189.272 (0) Total entities for the zip file: 15 directories, 416 files (0 skipped as non-modified), 19.2 MB
+0189.412 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0189.752 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip.tmp: 100 files added (on-disk size: 5 KB)
+0189.932 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip.tmp: 200 files added (on-disk size: 5 KB)
+0190.192 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip.tmp: 300 files added (on-disk size: 5 KB)
+0190.441 (0) Zip: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip.tmp: 400 files added (on-disk size: 5 KB)
+0203.927 (0) Created uploads zip (0) - 17282.7 KB in 18.6 s (928.4 KB/s) (sha1: 43403176b664727b369e01e34378352493adb5b6, sha256: e1273fdcb68b75ab6e53181d27e43e393179deb7871b1b7f87c66f3bd5c288e9)
+0204.156 (0) Beginning backup of other directories found in the content directory (index: 0)
+0204.550 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0204.651 (0) Looking for candidates to backup in: C:\xampp\htdocs\agrodistribution/wp-content
+0204.711 (0) finding files: index.php: adding to list (1)
+0204.787 (0) finding files: mu-plugins: adding to list (2)
+0204.891 (0) finding files: plugins: skipping: this is the plugins directory
+0204.940 (0) finding files: themes: skipping: this is the themes directory
+0205.079 (0) finding files: updraft: skipping: this is the updraft directory
+0205.152 (0) finding files: upgrade: skipping: excluded by options
+0205.198 (0) finding files: uploads: skipping: this is the uploads directory
+0205.663 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0205.850 (0) Created others zip (0) - 1.7 KB in 0.6 s (2.7 KB/s) (sha1: 54c3746e3690d272feb130c51cca05bea629a699, sha256: 291930359aab9d2c218e56acc746f54ccf737172d1e7511a37efb3845b97e08c)
+0206.037 (0) Saving backup status to database (elements: 8)
+0206.202 (0) Beginning creation of database dump (WordPress DB)
+0206.759 (0) Table wp_options: Total expected rows (approximate): 617
+0206.939 (0) Table wp_options: Total rows added: 622 in 0.13 seconds
+0207.052 (0) Table wp_options: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_options.table.gz - 144.7 KB)
+0207.359 (0) Table wp_users: Total expected rows (approximate): 8
+0207.427 (0) Table wp_users: Total rows added: 8 in 0.02 seconds
+0207.464 (0) Table wp_users: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_users.table.gz - 1 KB)
+0207.651 (0) Table wp_usermeta: Total expected rows (approximate): 284
+0207.690 (0) Table wp_usermeta: Total rows added: 284 in 0.01 seconds
+0207.713 (0) Table wp_usermeta: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_usermeta.table.gz - 5 KB)
+0207.900 (0) Table wp_commentmeta: Total expected rows (approximate): 8
+0207.991 (0) Table wp_commentmeta: Total rows added: 8 in 0.05 seconds
+0208.219 (0) Table wp_commentmeta: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_commentmeta.table.gz - 1 KB)
+0208.670 (0) Table wp_comments: Total expected rows (approximate): 8
+0208.819 (0) Table wp_comments: Total rows added: 10 in 0.06 seconds
+0208.929 (0) Table wp_comments: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_comments.table.gz - 1.3 KB)
+0210.216 (0) Table wp_links: Total expected rows (approximate): 0
+0210.330 (0) Table wp_links: Total rows added: 0 in 0.02 seconds
+0210.414 (0) Table wp_links: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_links.table.gz - 0.4 KB)
+0210.684 (0) Table wp_postmeta: Total expected rows (approximate): 731
+0210.739 (0) Table wp_postmeta: Total rows added: 731 in 0.02 seconds
+0210.774 (0) Table wp_postmeta: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_postmeta.table.gz - 13.8 KB)
+0210.931 (0) Table wp_posts: Total expected rows (approximate): 145
+0211.321 (0) Table wp_posts: Total rows added: 145 in 0.36 seconds
+0211.401 (0) Table wp_posts: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_posts.table.gz - 17.4 KB)
+0211.587 (0) Table wp_term_relationships: Total expected rows (approximate): 31
+0211.862 (0) Table wp_term_relationships: Total rows added: 35 in 0.06 seconds
+0212.212 (0) Table wp_term_relationships: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0213.079 (0) Table wp_term_taxonomy: Total expected rows (approximate): 26
+0213.198 (0) Table wp_term_taxonomy: Total rows added: 27 in 0.01 seconds
+0213.257 (0) Table wp_term_taxonomy: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0213.568 (0) Table wp_termmeta: Total expected rows (approximate): 23
+0213.636 (0) Table wp_termmeta: Total rows added: 25 in 0.01 seconds
+0213.714 (0) Table wp_termmeta: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_termmeta.table.gz - 0.6 KB)
+0213.939 (0) Table wp_terms: Total expected rows (approximate): 20
+0214.156 (0) Table wp_terms: Total rows added: 27 in 0.04 seconds
+0214.192 (0) Table wp_terms: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_terms.table.gz - 0.7 KB)
+0214.463 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 28
+0214.823 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 28 in 0.10 seconds
+0215.172 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.7 KB)
+0218.078 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0218.417 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.01 seconds
+0218.670 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0218.925 (0) Table wp_dokan_announcement: Total expected rows (approximate): 0
+0218.988 (0) Table wp_dokan_announcement: Total rows added: 0 in 0.01 seconds
+0219.162 (0) Table wp_dokan_announcement: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_announcement.table.gz - 0.3 KB)
+0219.401 (0) Table wp_dokan_orders: Total expected rows (approximate): 0
+0219.450 (0) Table wp_dokan_orders: Total rows added: 1 in 0.01 seconds
+0219.507 (0) Table wp_dokan_orders: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_orders.table.gz - 0.4 KB)
+0219.842 (0) Table wp_dokan_refund: Total expected rows (approximate): 0
+0219.887 (0) Table wp_dokan_refund: Total rows added: 0 in 0.01 seconds
+0219.951 (0) Table wp_dokan_refund: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_refund.table.gz - 0.4 KB)
+0220.546 (0) Table wp_dokan_shipping_zone_locations: Total expected rows (approximate): 0
+0220.592 (0) Table wp_dokan_shipping_zone_locations: Total rows added: 0 in 0.01 seconds
+0220.661 (0) Table wp_dokan_shipping_zone_locations: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_shipping_zone_locations.table.gz - 0.3 KB)
+0220.888 (0) Table wp_dokan_shipping_zone_methods: Total expected rows (approximate): 0
+0221.118 (0) Table wp_dokan_shipping_zone_methods: Total rows added: 0 in 0.02 seconds
+0221.417 (0) Table wp_dokan_shipping_zone_methods: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_shipping_zone_methods.table.gz - 0.3 KB)
+0221.812 (0) Table wp_dokan_vendor_balance: Total expected rows (approximate): 0
+0221.924 (0) Table wp_dokan_vendor_balance: Total rows added: 1 in 0.06 seconds
+0221.945 (0) Table wp_dokan_vendor_balance: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_vendor_balance.table.gz - 0.5 KB)
+0222.213 (0) Table wp_dokan_withdraw: Total expected rows (approximate): 0
+0222.257 (0) Table wp_dokan_withdraw: Total rows added: 0 in 0.01 seconds
+0222.341 (0) Table wp_dokan_withdraw: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_withdraw.table.gz - 0.4 KB)
+0222.515 (0) Table wp_pv_commission: Total expected rows (approximate): 0
+0222.540 (0) Table wp_pv_commission: Total rows added: 1 in 0.01 seconds
+0222.614 (0) Table wp_pv_commission: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_pv_commission.table.gz - 0.4 KB)
+0223.132 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0223.324 (0) Table wp_wc_download_log: Total rows added: 0 in 0.07 seconds
+0223.435 (0) Table wp_wc_download_log: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0223.759 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0223.790 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.01 seconds
+0223.862 (0) Table wp_wc_webhooks: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0224.140 (0) Table wp_weforms_entries: Total expected rows (approximate): 0
+0224.381 (0) Table wp_weforms_entries: Total rows added: 2 in 0.17 seconds
+0224.429 (0) Table wp_weforms_entries: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_weforms_entries.table.gz - 0.5 KB)
+0224.639 (0) Table wp_weforms_entrymeta: Total expected rows (approximate): 5
+0224.689 (0) Table wp_weforms_entrymeta: Total rows added: 6 in 0.01 seconds
+0224.724 (0) Table wp_weforms_entrymeta: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_weforms_entrymeta.table.gz - 0.5 KB)
+0225.116 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0225.182 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.01 seconds
+0225.611 (0) Table wp_woocommerce_api_keys: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0225.826 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0225.886 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.01 seconds
+0225.971 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0226.425 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0226.496 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.01 seconds
+0226.640 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0226.804 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0226.867 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.01 seconds
+0226.955 (0) Table wp_woocommerce_log: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0227.283 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 3
+0227.340 (0) Table wp_woocommerce_order_items: Total rows added: 3 in 0.01 seconds
+0227.383 (0) Table wp_woocommerce_order_items: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_order_items.table.gz - 0.4 KB)
+0227.992 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0228.331 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.01 seconds
+0228.448 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0228.769 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0228.842 (0) Table wp_woocommerce_sessions: Total rows added: 1 in 0.01 seconds
+0228.975 (0) Table wp_woocommerce_sessions: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_sessions.table.gz - 0.8 KB)
+0229.826 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0229.918 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 1 in 0.04 seconds
+0230.021 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0230.626 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0230.710 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 2 in 0.04 seconds
+0230.772 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0231.162 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0231.201 (0) Table wp_woocommerce_shipping_zones: Total rows added: 1 in 0.01 seconds
+0231.253 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0231.441 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0231.499 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.02 seconds
+0231.550 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0231.792 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0231.859 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.01 seconds
+0231.906 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0232.161 (0) Table wp_wplc_chat_msgs: Total expected rows (approximate): 29
+0232.277 (0) Table wp_wplc_chat_msgs: Total rows added: 36 in 0.03 seconds
+0232.360 (0) Table wp_wplc_chat_msgs: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_chat_msgs.table.gz - 1.2 KB)
+0232.595 (0) Table wp_wplc_chat_ratings: Total expected rows (approximate): 0
+0232.751 (0) Table wp_wplc_chat_ratings: Total rows added: 0 in 0.01 seconds
+0232.829 (0) Table wp_wplc_chat_ratings: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_chat_ratings.table.gz - 0.3 KB)
+0233.061 (0) Table wp_wplc_chat_sessions: Total expected rows (approximate): 1
+0233.195 (0) Table wp_wplc_chat_sessions: Total rows added: 3 in 0.01 seconds
+0233.273 (0) Table wp_wplc_chat_sessions: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_chat_sessions.table.gz - 0.9 KB)
+0233.464 (0) Table wp_wplc_chat_triggers: Total expected rows (approximate): 0
+0233.510 (0) Table wp_wplc_chat_triggers: Total rows added: 0 in 0.01 seconds
+0233.656 (0) Table wp_wplc_chat_triggers: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_chat_triggers.table.gz - 0.3 KB)
+0233.864 (0) Table wp_wplc_custom_fields: Total expected rows (approximate): 0
+0233.961 (0) Table wp_wplc_custom_fields: Total rows added: 0 in 0.02 seconds
+0234.134 (0) Table wp_wplc_custom_fields: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_custom_fields.table.gz - 0.3 KB)
+0234.571 (0) Table wp_wplc_departments: Total expected rows (approximate): 0
+0234.655 (0) Table wp_wplc_departments: Total rows added: 0 in 0.02 seconds
+0234.710 (0) Table wp_wplc_departments: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_departments.table.gz - 0.3 KB)
+0235.024 (0) Table wp_wplc_offline_messages: Total expected rows (approximate): 1
+0235.190 (0) Table wp_wplc_offline_messages: Total rows added: 1 in 0.04 seconds
+0235.495 (0) Table wp_wplc_offline_messages: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_offline_messages.table.gz - 0.5 KB)
+0235.805 (0) Table wp_wplc_roi_conversions: Total expected rows (approximate): 0
+0235.844 (0) Table wp_wplc_roi_conversions: Total rows added: 0 in 0.01 seconds
+0235.907 (0) Table wp_wplc_roi_conversions: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_roi_conversions.table.gz - 0.3 KB)
+0236.270 (0) Table wp_wplc_roi_goals: Total expected rows (approximate): 0
+0236.320 (0) Table wp_wplc_roi_goals: Total rows added: 0 in 0.02 seconds
+0236.379 (0) Table wp_wplc_roi_goals: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_roi_goals.table.gz - 0.3 KB)
+0236.832 (0) Table wp_wplc_webhooks: Total expected rows (approximate): 0
+0236.908 (0) Table wp_wplc_webhooks: Total rows added: 0 in 0.01 seconds
+0236.977 (0) Table wp_wplc_webhooks: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_webhooks.table.gz - 0.3 KB)
+0237.540 (0) Table wp_yith_wcwl: Total expected rows (approximate): 0
+0237.577 (0) Table wp_yith_wcwl: Total rows added: 0 in 0.01 seconds
+0237.641 (0) Table wp_yith_wcwl: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_yith_wcwl.table.gz - 0.3 KB)
+0237.842 (0) Table wp_yith_wcwl_lists: Total expected rows (approximate): 2
+0237.884 (0) Table wp_yith_wcwl_lists: Total rows added: 3 in 0.01 seconds
+0237.953 (0) Table wp_yith_wcwl_lists: finishing file (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_yith_wcwl_lists.table.gz - 0.5 KB)
+0238.184 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_options.table.gz (1/50): adding to final database dump
+0238.327 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_users.table.gz (2/50): adding to final database dump
+0238.389 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_usermeta.table.gz (3/50): adding to final database dump
+0238.448 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_commentmeta.table.gz (4/50): adding to final database dump
+0238.505 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_comments.table.gz (5/50): adding to final database dump
+0238.546 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_links.table.gz (6/50): adding to final database dump
+0238.636 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_postmeta.table.gz (7/50): adding to final database dump
+0238.737 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_posts.table.gz (8/50): adding to final database dump
+0238.781 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_term_relationships.table.gz (9/50): adding to final database dump
+0238.835 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_term_taxonomy.table.gz (10/50): adding to final database dump
+0238.928 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_termmeta.table.gz (11/50): adding to final database dump
+0238.960 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_terms.table.gz (12/50): adding to final database dump
+0239.110 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_order_itemmeta.table.gz (13/50): adding to final database dump
+0239.207 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_payment_tokenmeta.table.gz (14/50): adding to final database dump
+0239.233 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_announcement.table.gz (15/50): adding to final database dump
+0239.275 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_orders.table.gz (16/50): adding to final database dump
+0239.340 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_refund.table.gz (17/50): adding to final database dump
+0239.388 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_shipping_zone_locations.table.gz (18/50): adding to final database dump
+0239.412 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_shipping_zone_methods.table.gz (19/50): adding to final database dump
+0239.470 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_vendor_balance.table.gz (20/50): adding to final database dump
+0239.536 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_dokan_withdraw.table.gz (21/50): adding to final database dump
+0239.868 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_pv_commission.table.gz (22/50): adding to final database dump
+0239.973 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wc_download_log.table.gz (23/50): adding to final database dump
+0240.075 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wc_webhooks.table.gz (24/50): adding to final database dump
+0240.149 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_weforms_entries.table.gz (25/50): adding to final database dump
+0240.257 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_weforms_entrymeta.table.gz (26/50): adding to final database dump
+0240.339 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_api_keys.table.gz (27/50): adding to final database dump
+0240.380 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_attribute_taxonomies.table.gz (28/50): adding to final database dump
+0240.429 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (29/50): adding to final database dump
+0240.488 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_log.table.gz (30/50): adding to final database dump
+0240.685 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_order_items.table.gz (31/50): adding to final database dump
+0240.900 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_payment_tokens.table.gz (32/50): adding to final database dump
+0241.040 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_sessions.table.gz (33/50): adding to final database dump
+0241.171 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_shipping_zone_locations.table.gz (34/50): adding to final database dump
+0241.296 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_shipping_zone_methods.table.gz (35/50): adding to final database dump
+0241.508 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_shipping_zones.table.gz (36/50): adding to final database dump
+0241.608 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_tax_rate_locations.table.gz (37/50): adding to final database dump
+0241.675 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_woocommerce_tax_rates.table.gz (38/50): adding to final database dump
+0241.723 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_chat_msgs.table.gz (39/50): adding to final database dump
+0241.822 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_chat_ratings.table.gz (40/50): adding to final database dump
+0241.863 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_chat_sessions.table.gz (41/50): adding to final database dump
+0241.896 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_chat_triggers.table.gz (42/50): adding to final database dump
+0241.937 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_custom_fields.table.gz (43/50): adding to final database dump
+0242.003 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_departments.table.gz (44/50): adding to final database dump
+0242.069 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_offline_messages.table.gz (45/50): adding to final database dump
+0242.160 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_roi_conversions.table.gz (46/50): adding to final database dump
+0242.333 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_roi_goals.table.gz (47/50): adding to final database dump
+0242.441 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_wplc_webhooks.table.gz (48/50): adding to final database dump
+0242.465 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_yith_wcwl.table.gz (49/50): adding to final database dump
+0242.515 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db-table-wp_yith_wcwl_lists.table.gz (50/50): adding to final database dump
+0242.654 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: finished writing out complete database file (160 KB)
+0243.241 (0) Total database tables backed up: 50 (backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz, size: 194801, sha1: 23dc6d05d37abd5a9d95ed0035828f1e6bc34c14, sha256: 319a9eaa91c647f9c563c8dda98fbddfaef938e4dddd24699b20e7b8e9ca255c)
+0243.424 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0243.489 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0243.538 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0243.629 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0243.670 (0) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0243.734 (0) Saving backup history. Total backup size: 68.5 MB
+0243.834 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0244.198 (0) Cloud backup selection (1/1): email with instance (1/1) (last)
+0244.263 (0) Beginning dispatch of backup to remote (email)
+0244.363 (0) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+0244.428 (0) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+0247.218 (0) Email: Mails were not sent successfully
+0247.253 (0) An error condition has occurred for the first time during this job
+0247.274 (0) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+0249.416 (0) Email: Mails were not sent successfully
+0250.097 (0) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+0252.367 (0) Email: Mails were not sent successfully
+0252.436 (0) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+0254.532 (0) Email: Mails were not sent successfully
+0254.585 (0) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+0256.664 (0) Email: Mails were not sent successfully
+0256.804 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0256.871 (0) Number of backup sets in history: 1; groups (db): 1
+0256.945 (0) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+0256.974 (0) This backup set is the backup set just made, so will not be deleted.
+0256.974 (0) Number of backup sets in history: 1; groups (files): 1
+0257.036 (0) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+0257.036 (0) This backup set is the backup set just made, so will not be deleted.
+0257.229 (0) This backup set is the backup set just made, so will not be deleted.
+0257.229 (0) This backup set is the backup set just made, so will not be deleted.
+0257.229 (0) This backup set is the backup set just made, so will not be deleted.
+0257.229 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0257.340 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0257.596 (0) Resume backup (d51a41ef2eb3, 0): finish run
+0257.741 (0) Decremented the semaphore (fd) by 1
+0257.848 (0) Semaphore (fd) unlocked
+0257.890 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0258.050 (0) Rescheduling resumption 1: moving to 100 seconds from now (1581608750)
+0258.359 (0) The backup has not finished; a resumption is scheduled
+0360.932 (1) Opened log file at time: Thu, 13 Feb 2020 15:45:53 +0000 on http://localhost:8080/agrodistribution
+0360.983 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0361.014 (1) Free space on disk containing Updraft's temporary directory: 224525.3 MB
+0361.071 (1) Backup run: resumption=1, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (361s ago), job type=backup, previous check-in=238s
+0361.227 (1) Scheduling a resumption (2) after 300 seconds (1581609053) in case this run gets aborted
+0361.305 (1) Checking if we have a zip executable available
+0361.335 (1) Creation of backups of directories: already finished
+0361.379 (1) Saving backup status to database (elements: 8)
+0361.433 (1) Database dump (WordPress DB): Creation was completed already
+0361.492 (1) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0361.516 (1) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0361.533 (1) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0361.591 (1) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0361.614 (1) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0361.632 (1) Saving backup history. Total backup size: 68.5 MB
+0361.673 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0361.715 (1) Cloud backup selection (1/1): email with instance (1/1) (last)
+0361.746 (1) Beginning dispatch of backup to remote (email)
+0361.814 (1) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+0361.862 (1) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+0364.157 (1) Email: Mails were not sent successfully
+0364.199 (1) An error condition has occurred for the first time during this job
+0364.240 (1) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+0366.316 (1) Email: Mails were not sent successfully
+0366.370 (1) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+0368.554 (1) Email: Mails were not sent successfully
+0368.612 (1) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+0370.665 (1) Email: Mails were not sent successfully
+0370.719 (1) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+0372.763 (1) Email: Mails were not sent successfully
+0372.869 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0372.915 (1) Number of backup sets in history: 1; groups (db): 1
+0372.944 (1) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+0372.962 (1) This backup set is the backup set just made, so will not be deleted.
+0372.963 (1) Number of backup sets in history: 1; groups (files): 1
+0373.012 (1) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+0373.012 (1) This backup set is the backup set just made, so will not be deleted.
+0373.034 (1) This backup set is the backup set just made, so will not be deleted.
+0373.035 (1) This backup set is the backup set just made, so will not be deleted.
+0373.035 (1) This backup set is the backup set just made, so will not be deleted.
+0373.036 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0373.061 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0373.190 (1) Resume backup (d51a41ef2eb3, 1): finish run
+0373.306 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0373.442 (1) The backup has not finished; a resumption is scheduled
+0666.716 (2) Opened log file at time: Thu, 13 Feb 2020 15:50:59 +0000 on http://localhost:8080/agrodistribution
+0666.764 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0666.791 (2) Free space on disk containing Updraft's temporary directory: 224524.8 MB
+0666.893 (2) Backup run: resumption=2, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (667s ago), job type=backup
+0666.975 (2) Scheduling a resumption (3) after 300 seconds (1581609359) in case this run gets aborted
+0667.056 (2) Checking if we have a zip executable available
+0667.079 (2) Creation of backups of directories: already finished
+0667.104 (2) Saving backup status to database (elements: 8)
+0667.165 (2) Database dump (WordPress DB): Creation was completed already
+0667.245 (2) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0667.265 (2) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0667.295 (2) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0667.323 (2) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0667.344 (2) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0667.508 (2) Saving backup history. Total backup size: 68.5 MB
+0667.731 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0667.892 (2) Cloud backup selection (1/1): email with instance (1/1) (last)
+0667.965 (2) Beginning dispatch of backup to remote (email)
+0668.007 (2) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+0668.056 (2) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+0670.451 (2) Email: Mails were not sent successfully
+0670.487 (2) An error condition has occurred for the first time during this job
+0670.545 (2) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+0672.659 (2) Email: Mails were not sent successfully
+0672.711 (2) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+0674.902 (2) Email: Mails were not sent successfully
+0674.948 (2) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+0677.032 (2) Email: Mails were not sent successfully
+0677.060 (2) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+0679.115 (2) Email: Mails were not sent successfully
+0679.200 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0679.259 (2) Number of backup sets in history: 1; groups (db): 1
+0679.278 (2) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+0679.323 (2) This backup set is the backup set just made, so will not be deleted.
+0679.323 (2) Number of backup sets in history: 1; groups (files): 1
+0679.344 (2) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+0679.344 (2) This backup set is the backup set just made, so will not be deleted.
+0679.364 (2) This backup set is the backup set just made, so will not be deleted.
+0679.364 (2) This backup set is the backup set just made, so will not be deleted.
+0679.365 (2) This backup set is the backup set just made, so will not be deleted.
+0679.365 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0679.463 (2) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0679.542 (2) Resume backup (d51a41ef2eb3, 2): finish run
+0679.584 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0679.653 (2) The backup has not finished; a resumption is scheduled
+0970.473 (3) Opened log file at time: Thu, 13 Feb 2020 15:56:03 +0000 on http://localhost:8080/agrodistribution
+0970.558 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0970.697 (3) Free space on disk containing Updraft's temporary directory: 224534.2 MB
+0970.794 (3) Backup run: resumption=3, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (971s ago), job type=backup
+0970.912 (3) Scheduling a resumption (4) after 300 seconds (1581609663) in case this run gets aborted
+0971.079 (3) Checking if we have a zip executable available
+0971.137 (3) Creation of backups of directories: already finished
+0971.203 (3) Saving backup status to database (elements: 8)
+0971.347 (3) Database dump (WordPress DB): Creation was completed already
+0971.568 (3) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0971.653 (3) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0971.684 (3) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0971.760 (3) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0971.800 (3) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0971.875 (3) Saving backup history. Total backup size: 68.5 MB
+0971.987 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+0972.156 (3) Cloud backup selection (1/1): email with instance (1/1) (last)
+0972.211 (3) Beginning dispatch of backup to remote (email)
+0972.302 (3) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+0972.354 (3) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+0974.736 (3) Email: Mails were not sent successfully
+0974.779 (3) An error condition has occurred for the first time during this job
+0974.854 (3) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+0977.002 (3) Email: Mails were not sent successfully
+0977.048 (3) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+0979.215 (3) Email: Mails were not sent successfully
+0979.268 (3) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+0981.492 (3) Email: Mails were not sent successfully
+0981.579 (3) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+0983.809 (3) Email: Mails were not sent successfully
+0984.188 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0984.385 (3) Number of backup sets in history: 1; groups (db): 1
+0984.612 (3) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+0984.844 (3) This backup set is the backup set just made, so will not be deleted.
+0984.844 (3) Number of backup sets in history: 1; groups (files): 1
+0985.101 (3) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+0985.101 (3) This backup set is the backup set just made, so will not be deleted.
+0985.150 (3) This backup set is the backup set just made, so will not be deleted.
+0985.150 (3) This backup set is the backup set just made, so will not be deleted.
+0985.150 (3) This backup set is the backup set just made, so will not be deleted.
+0985.151 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0985.192 (3) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0985.308 (3) Resume backup (d51a41ef2eb3, 3): finish run
+0985.397 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0985.555 (3) The backup has not finished; a resumption is scheduled
+1284.309 (4) Opened log file at time: Thu, 13 Feb 2020 16:01:16 +0000 on http://localhost:8080/agrodistribution
+1284.342 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+1284.392 (4) Free space on disk containing Updraft's temporary directory: 224540.1 MB
+1284.465 (4) Backup run: resumption=4, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (1285s ago), job type=backup
+1284.523 (4) Scheduling a resumption (5) after 300 seconds (1581609977) in case this run gets aborted
+1284.659 (4) Checking if we have a zip executable available
+1284.790 (4) Creation of backups of directories: already finished
+1284.826 (4) Saving backup status to database (elements: 8)
+1284.886 (4) Database dump (WordPress DB): Creation was completed already
+1284.967 (4) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1284.985 (4) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1285.009 (4) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1285.133 (4) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+1285.183 (4) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+1285.224 (4) Saving backup history. Total backup size: 68.5 MB
+1285.281 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+1285.330 (4) Cloud backup selection (1/1): email with instance (1/1) (last)
+1285.372 (4) Beginning dispatch of backup to remote (email)
+1285.429 (4) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+1285.480 (4) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+1287.834 (4) Email: Mails were not sent successfully
+1288.004 (4) An error condition has occurred for the first time during this job
+1288.140 (4) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+1290.406 (4) Email: Mails were not sent successfully
+1290.446 (4) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+1292.609 (4) Email: Mails were not sent successfully
+1292.673 (4) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+1294.739 (4) Email: Mails were not sent successfully
+1294.812 (4) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+1297.146 (4) Email: Mails were not sent successfully
+1297.788 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1297.907 (4) Number of backup sets in history: 1; groups (db): 1
+1298.270 (4) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+1298.334 (4) This backup set is the backup set just made, so will not be deleted.
+1298.335 (4) Number of backup sets in history: 1; groups (files): 1
+1298.524 (4) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+1298.524 (4) This backup set is the backup set just made, so will not be deleted.
+1298.549 (4) This backup set is the backup set just made, so will not be deleted.
+1298.549 (4) This backup set is the backup set just made, so will not be deleted.
+1298.550 (4) This backup set is the backup set just made, so will not be deleted.
+1298.550 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1298.573 (4) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1298.681 (4) Resume backup (d51a41ef2eb3, 4): finish run
+1298.739 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1298.787 (4) The backup has not finished; a resumption is scheduled
+1595.150 (5) Opened log file at time: Thu, 13 Feb 2020 16:06:27 +0000 on http://localhost:8080/agrodistribution
+1595.180 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+1595.208 (5) Free space on disk containing Updraft's temporary directory: 224541.4 MB
+1595.347 (5) Backup run: resumption=5, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (1596s ago), job type=backup
+1595.574 (5) Scheduling a resumption (6) after 300 seconds (1581610288) in case this run gets aborted
+1595.787 (5) Checking if we have a zip executable available
+1595.871 (5) Creation of backups of directories: already finished
+1595.941 (5) Saving backup status to database (elements: 8)
+1595.999 (5) Database dump (WordPress DB): Creation was completed already
+1596.107 (5) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1596.135 (5) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1596.157 (5) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1596.185 (5) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+1596.215 (5) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+1596.370 (5) Saving backup history. Total backup size: 68.5 MB
+1596.490 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+1596.560 (5) Cloud backup selection (1/1): email with instance (1/1) (last)
+1596.580 (5) Beginning dispatch of backup to remote (email)
+1596.630 (5) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+1596.676 (5) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+1598.981 (5) Email: Mails were not sent successfully
+1599.027 (5) An error condition has occurred for the first time during this job
+1599.077 (5) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+1601.215 (5) Email: Mails were not sent successfully
+1601.264 (5) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+1603.450 (5) Email: Mails were not sent successfully
+1603.499 (5) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+1605.548 (5) Email: Mails were not sent successfully
+1605.575 (5) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+1607.657 (5) Email: Mails were not sent successfully
+1607.729 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1607.750 (5) Number of backup sets in history: 1; groups (db): 1
+1607.798 (5) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+1607.828 (5) This backup set is the backup set just made, so will not be deleted.
+1607.828 (5) Number of backup sets in history: 1; groups (files): 1
+1607.847 (5) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+1607.848 (5) This backup set is the backup set just made, so will not be deleted.
+1607.896 (5) This backup set is the backup set just made, so will not be deleted.
+1607.897 (5) This backup set is the backup set just made, so will not be deleted.
+1607.897 (5) This backup set is the backup set just made, so will not be deleted.
+1607.897 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1607.919 (5) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1608.021 (5) Resume backup (d51a41ef2eb3, 5): finish run
+1608.078 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1608.136 (5) The backup has not finished; a resumption is scheduled
+1898.129 (6) Opened log file at time: Thu, 13 Feb 2020 16:11:30 +0000 on http://localhost:8080/agrodistribution
+1898.163 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+1898.186 (6) Free space on disk containing Updraft's temporary directory: 224541.1 MB
+1898.243 (6) Backup run: resumption=6, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (1898s ago), job type=backup
+1898.341 (6) Scheduling a resumption (7) after 300 seconds (1581610591) in case this run gets aborted
+1898.482 (6) Checking if we have a zip executable available
+1898.515 (6) Creation of backups of directories: already finished
+1898.582 (6) Saving backup status to database (elements: 8)
+1898.648 (6) Database dump (WordPress DB): Creation was completed already
+1898.731 (6) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1898.754 (6) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1898.780 (6) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1898.812 (6) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+1898.908 (6) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+1899.010 (6) Saving backup history. Total backup size: 68.5 MB
+1899.249 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+1899.307 (6) Cloud backup selection (1/1): email with instance (1/1) (last)
+1899.331 (6) Beginning dispatch of backup to remote (email)
+1899.423 (6) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+1899.446 (6) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+1901.741 (6) Email: Mails were not sent successfully
+1901.790 (6) An error condition has occurred for the first time during this job
+1901.916 (6) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+1904.032 (6) Email: Mails were not sent successfully
+1904.053 (6) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+1906.204 (6) Email: Mails were not sent successfully
+1906.383 (6) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+1908.433 (6) Email: Mails were not sent successfully
+1908.474 (6) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+1910.540 (6) Email: Mails were not sent successfully
+1910.619 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1910.671 (6) Number of backup sets in history: 1; groups (db): 1
+1910.700 (6) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+1910.719 (6) This backup set is the backup set just made, so will not be deleted.
+1910.719 (6) Number of backup sets in history: 1; groups (files): 1
+1910.742 (6) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+1910.742 (6) This backup set is the backup set just made, so will not be deleted.
+1910.760 (6) This backup set is the backup set just made, so will not be deleted.
+1910.761 (6) This backup set is the backup set just made, so will not be deleted.
+1910.761 (6) This backup set is the backup set just made, so will not be deleted.
+1910.762 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1910.782 (6) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1910.965 (6) Resume backup (d51a41ef2eb3, 6): finish run
+1911.041 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1911.140 (6) The backup has not finished; a resumption is scheduled
+2223.906 (7) Opened log file at time: Thu, 13 Feb 2020 16:16:56 +0000 on http://localhost:8080/agrodistribution
+2223.935 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+2223.961 (7) Free space on disk containing Updraft's temporary directory: 224537.3 MB
+2224.010 (7) Backup run: resumption=7, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (2224s ago), job type=backup
+2224.084 (7) Scheduling a resumption (8) after 300 seconds (1581610916) in case this run gets aborted
+2224.250 (7) Checking if we have a zip executable available
+2224.290 (7) Creation of backups of directories: already finished
+2224.392 (7) Saving backup status to database (elements: 8)
+2224.503 (7) Database dump (WordPress DB): Creation was completed already
+2224.613 (7) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2224.644 (7) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2224.687 (7) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2224.719 (7) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+2224.803 (7) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+2224.834 (7) Saving backup history. Total backup size: 68.5 MB
+2224.950 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+2225.015 (7) Cloud backup selection (1/1): email with instance (1/1) (last)
+2225.090 (7) Beginning dispatch of backup to remote (email)
+2225.395 (7) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+2225.512 (7) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+2227.853 (7) Email: Mails were not sent successfully
+2227.936 (7) An error condition has occurred for the first time during this job
+2228.010 (7) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+2234.663 (7) Email: Mails were not sent successfully
+2234.712 (7) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+2237.884 (7) Email: Mails were not sent successfully
+2237.922 (7) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+2239.979 (7) Email: Mails were not sent successfully
+2240.007 (7) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+2242.065 (7) Email: Mails were not sent successfully
+2242.219 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2242.269 (7) Number of backup sets in history: 1; groups (db): 1
+2242.292 (7) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+2242.310 (7) This backup set is the backup set just made, so will not be deleted.
+2242.310 (7) Number of backup sets in history: 1; groups (files): 1
+2242.351 (7) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+2242.351 (7) This backup set is the backup set just made, so will not be deleted.
+2242.374 (7) This backup set is the backup set just made, so will not be deleted.
+2242.375 (7) This backup set is the backup set just made, so will not be deleted.
+2242.375 (7) This backup set is the backup set just made, so will not be deleted.
+2242.375 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2242.393 (7) Retain: saving new backup history (sets now: 1) and finishing retain operation
+2242.434 (7) Resume backup (d51a41ef2eb3, 7): finish run
+2242.498 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2242.558 (7) The backup has not finished; a resumption is scheduled
+2528.403 (8) Opened log file at time: Thu, 13 Feb 2020 16:22:01 +0000 on http://localhost:8080/agrodistribution
+2528.438 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+2528.501 (8) Free space on disk containing Updraft's temporary directory: 224537.5 MB
+2528.624 (8) Backup run: resumption=8, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (2529s ago), job type=backup
+2528.823 (8) Scheduling a resumption (9) after 300 seconds (1581611221) in case this run gets aborted
+2528.943 (8) Checking if we have a zip executable available
+2529.004 (8) Creation of backups of directories: already finished
+2529.054 (8) Saving backup status to database (elements: 8)
+2529.161 (8) Database dump (WordPress DB): Creation was completed already
+2529.319 (8) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2529.352 (8) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2529.377 (8) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2529.402 (8) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+2529.476 (8) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+2529.525 (8) Saving backup history. Total backup size: 68.5 MB
+2529.606 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+2529.775 (8) Cloud backup selection (1/1): email with instance (1/1) (last)
+2529.806 (8) Beginning dispatch of backup to remote (email)
+2529.895 (8) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+2529.913 (8) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+2532.207 (8) Email: Mails were not sent successfully
+2532.273 (8) An error condition has occurred for the first time during this job
+2532.323 (8) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+2534.433 (8) Email: Mails were not sent successfully
+2534.493 (8) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+2536.666 (8) Email: Mails were not sent successfully
+2536.696 (8) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+2538.763 (8) Email: Mails were not sent successfully
+2538.800 (8) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+2540.839 (8) Email: Mails were not sent successfully
+2540.902 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2540.948 (8) Number of backup sets in history: 1; groups (db): 1
+2540.976 (8) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+2541.026 (8) This backup set is the backup set just made, so will not be deleted.
+2541.026 (8) Number of backup sets in history: 1; groups (files): 1
+2541.045 (8) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+2541.045 (8) This backup set is the backup set just made, so will not be deleted.
+2541.067 (8) This backup set is the backup set just made, so will not be deleted.
+2541.068 (8) This backup set is the backup set just made, so will not be deleted.
+2541.068 (8) This backup set is the backup set just made, so will not be deleted.
+2541.069 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2541.094 (8) Retain: saving new backup history (sets now: 1) and finishing retain operation
+2541.135 (8) Resume backup (d51a41ef2eb3, 8): finish run
+2541.177 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2541.218 (8) The backup has not finished; a resumption is scheduled
+2835.361 (9) Opened log file at time: Thu, 13 Feb 2020 16:27:08 +0000 on http://localhost:8080/agrodistribution
+2835.390 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.0.8 PHP: 7.2.12 (apache2handler, Windows NT USER-PC 10.0 build 18363 (Windows 10) i586) MySQL: 10.1.37-MariaDB WPLANG: en_US Server: Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 47.1M | 2M) multisite: N openssl: OpenSSL 1.1.0i  14 Aug 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+2835.444 (9) Free space on disk containing Updraft's temporary directory: 224534.7 MB
+2835.501 (9) Backup run: resumption=9, nonce=d51a41ef2eb3, file_nonce=d51a41ef2eb3 begun at=1581608392 (2836s ago), job type=backup
+2835.550 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+2835.633 (9) Scheduling a resumption (10) after 300 seconds (1581611528); but the job will then be aborted unless something happens this time
+2835.744 (9) Creation of backups of directories: already finished
+2835.771 (9) Saving backup status to database (elements: 8)
+2835.905 (9) Database dump (WordPress DB): Creation was completed already
+2836.046 (9) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2836.074 (9) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2836.127 (9) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2836.157 (9) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: others: This file has not yet been successfully uploaded: will queue
+2836.187 (9) backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: db: This file has not yet been successfully uploaded: will queue
+2836.206 (9) Saving backup history. Total backup size: 68.5 MB
+2836.263 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+2836.304 (9) Cloud backup selection (1/1): email with instance (1/1) (last)
+2836.354 (9) Beginning dispatch of backup to remote (email)
+2836.428 (9) [Warning] Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: This backup archive is 44.6 MB in size - the attempt to send this via email is likely to fail (few email servers allow attachments of this size). If so, you should switch to using a different remote storage method.
+2836.450 (9) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-plugins.zip: email to: uceeg...
+2838.783 (9) Email: Mails were not sent successfully
+2838.851 (9) An error condition has occurred for the first time during this job
+2838.912 (9) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-themes.zip: email to: uceeg...
+2841.001 (9) Email: Mails were not sent successfully
+2841.031 (9) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-uploads.zip: email to: uceeg...
+2843.209 (9) Email: Mails were not sent successfully
+2843.236 (9) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-others.zip: email to: uceeg...
+2845.287 (9) Email: Mails were not sent successfully
+2845.312 (9) Email: backup_2020-02-13-1539_Agrodistribution_d51a41ef2eb3-db.gz: email to: uceeg...
+2847.345 (9) Email: Mails were not sent successfully
+2847.482 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2847.568 (9) Number of backup sets in history: 1; groups (db): 1
+2847.617 (9) Examining (for databases) backup set with group_id=0, nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+2847.647 (9) This backup set is the backup set just made, so will not be deleted.
+2847.647 (9) Number of backup sets in history: 1; groups (files): 1
+2847.680 (9) Examining (for files) backup set with nonce=d51a41ef2eb3, datestamp=1581608392 (Feb 13 2020 15:39:52)
+2847.680 (9) This backup set is the backup set just made, so will not be deleted.
+2847.721 (9) This backup set is the backup set just made, so will not be deleted.
+2847.721 (9) This backup set is the backup set just made, so will not be deleted.
+2847.722 (9) This backup set is the backup set just made, so will not be deleted.
+2847.722 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+2847.754 (9) Retain: saving new backup history (sets now: 1) and finishing retain operation
+2847.913 (9) Resume backup (d51a41ef2eb3, 9): finish run
+2848.012 (9) The resumption is being cancelled, as it was only scheduled to enable error reporting, which can be performed now
+2848.161 (9) Fetching RSS news feed
+2850.372 (9) Fetched RSS news feed; result is a: SimplePie
+2850.679 (9) Sending email ('Files and database (Full backup)') report (attachments: 1, size: 85.1 KB) to: uceeg...
+2852.767 (9) The backup attempt has finished, apparently unsuccessfully

@@ -1,0 +1,42 @@
+2020-02-14T06:43:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\wp-db.php on line 1924
+
+2020-02-14T06:47:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\wp-db.php on line 1924
+
+2020-02-14T06:51:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T07:34:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-02-14T07:55:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-02-14T08:04:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-02-14T08:04:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T08:04:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-02-14T08:07:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T08:07:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T08:07:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T08:07:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-02-14T08:07:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 441
+
+2020-02-14T08:10:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T08:10:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T08:17:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 441
+
+2020-02-14T08:17:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T08:22:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-02-14T08:24:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-02-14T08:29:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-02-14T08:30:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 163
+

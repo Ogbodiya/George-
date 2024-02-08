@@ -1,0 +1,8 @@
+2020-02-08T20:31:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\class.wp-scripts.php on line 441
+
+2020-02-08T21:00:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-content\plugins\weforms\includes\admin\class-privacy.php on line 9
+
+2020-02-08T21:00:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-content\plugins\wp-responsive-recent-post-slider\wpos-analytics\includes\class-anylc-admin.php on line 11
+
+2020-02-08T21:52:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\agrodistribution\wp-includes\Requests\Transport\cURL.php on line 463
+
